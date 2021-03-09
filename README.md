@@ -12,3 +12,12 @@ https://github.com/safaemreozpolat/aria-label-test
 - Derste yapılan örneği kişiselleştirerek reponun linkini ekleyiniz.
 
 - JavaScript'te var/let/const keywordleri arasındaki farkları açıklayınız.
+- var //
+  Sadece tanımlandığı fonksiyon içindeki değerleri etkiler. Dışarıdan bu değerlere erişemezsiniz.
+  Değişkeni daha sonradan değiştire bilirsiniz.
+- const //
+  Değişkeni sonradan değiştiremezsiniz. Değeri sabittir.
+  Sadece tanımlandığı {} süslü parantez içerisinden erişile bilir. 
+- let //
+  Değişken değeri sonradan değişe bilir.
+  Sadece bir kez tanımlanabilir. 
