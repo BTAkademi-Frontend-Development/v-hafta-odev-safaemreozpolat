@@ -21,3 +21,4 @@ https://github.com/safaemreozpolat/aria-label-test
 - let //
   Değişken değeri sonradan değişe bilir.
   Sadece bir kez tanımlanabilir. 
+Kaynak (https://medium.com/@busramemis/js-var-const-ve-let-ce26bc9818f7)
